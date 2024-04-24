@@ -2,6 +2,8 @@
 
 The goal of this project is to develop and train a custom neural network model that can classify images from the CIFAR-10 dataset with the highest possible accuracy. This involves implementing a basic architecture, experimenting with various training techniques and hyperparameter adjustments, and making improvements to the architecture to enhance the model's performance on unseen test data. The project aims not only to achieve a high classification accuracy but also to explore and document the effectiveness of different strategies in machine learning for image recognition tasks.
 
+(Done as a part of my uni coursework)
+
 ## Basic Architecture 
 <b>Overview:</b> Uses a sequence of intermediate blocks followed by an output block.
 
